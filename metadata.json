@@ -1,0 +1,6 @@
+{
+  "name": "Guia Visual da Terapia do Esquema",
+  "description": "Aprenda os conceitos da Terapia do Esquema com clareza e segurança. Receba 18 fichas visuais para consulta rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
